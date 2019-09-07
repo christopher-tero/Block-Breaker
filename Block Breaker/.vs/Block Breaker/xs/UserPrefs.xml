@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{8EF7FD2A-EA24-02BA-E337-8605DF5645B6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LoseCollider.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Paddle.cs">
     <Files>
-      <File FileName="Assets/Scripts/LoseCollider.cs" Line="7" Column="1" />
+      <File FileName="Assets/Scripts/LoseCollider.cs" Line="9" Column="42" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="19" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,7 +10,7 @@
           <Node name="Block Breaker" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="LoseCollider.cs" selected="True" />
+                <Node name="Paddle.cs" selected="True" />
               </Node>
             </Node>
           </Node>
