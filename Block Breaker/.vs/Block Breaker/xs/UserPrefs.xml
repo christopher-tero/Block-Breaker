@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Paddle.cs">
     <Files>
       <File FileName="Assets/Scripts/LoseCollider.cs" Line="9" Column="42" />
-      <File FileName="Assets/Scripts/Paddle.cs" Line="19" Column="1" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="18" Column="61" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6d370778-6509-4b5c-8ff9-a9e9be79f132" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="10d0ba36-7ef1-431b-ae90-6c35e5e75251" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
