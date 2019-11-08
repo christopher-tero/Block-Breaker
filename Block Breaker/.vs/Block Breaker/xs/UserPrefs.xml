@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{8EF7FD2A-EA24-02BA-E337-8605DF5645B6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LoseCollider.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ball.cs">
     <Files>
       <File FileName="Assets/Scripts/LoseCollider.cs" Line="9" Column="42" />
       <File FileName="Assets/Scripts/Paddle.cs" />
-      <File FileName="Assets/Scripts/Ball.cs" />
-      <File FileName="Assets/Scripts/Block.cs" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Block.cs" Line="10" Column="50" />
       <File FileName="Assets/Scripts/Level.cs" />
       <File FileName="Assets/Scripts/SceneLoader.cs" />
     </Files>
@@ -14,7 +14,7 @@
           <Node name="Block Breaker" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="LoseCollider.cs" selected="True" />
+                <Node name="Ball.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -24,7 +24,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="76e104cc-0df5-43c5-9c43-a41c2e3fa8b9" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d0163daf-d921-4019-b382-fe8dfb0acc77" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
