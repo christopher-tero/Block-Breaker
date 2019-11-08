@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 3677168742066168196}
   - component: {fileID: 3677168742066168197}
   m_Layer: 0
-  m_Name: Game Status
+  m_Name: Game Session
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45,9 +45,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameSpeed: 1
-  pointsPerBlockDestroyed: 20
+  pointsPerBlockDestroyed: 100
   scoreText: {fileID: 3677168742664111201}
+  bestScoreText: {fileID: 5322949794409939281}
+  isAutoPlayEnabled: 0
   currentScore: 0
+  bestScore: 0
 --- !u!1001 &3677168743161763190
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -176,6 +179,18 @@ RectTransform:
 --- !u!114 &3677168742664111201 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1727631639, guid: 3edff228110fb43c9bca3dc70e2e3e71,
+    type: 3}
+  m_PrefabInstance: {fileID: 3677168743161763190}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5322949794409939281 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8852115199320691751, guid: 3edff228110fb43c9bca3dc70e2e3e71,
     type: 3}
   m_PrefabInstance: {fileID: 3677168743161763190}
   m_PrefabAsset: {fileID: 0}
