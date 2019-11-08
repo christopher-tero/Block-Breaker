@@ -1,12 +1,11 @@
 ﻿<Properties StartupConfiguration="{8EF7FD2A-EA24-02BA-E337-8605DF5645B6}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Ball.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameSession.cs">
     <Files>
-      <File FileName="Assets/Scripts/LoseCollider.cs" Line="9" Column="42" />
-      <File FileName="Assets/Scripts/Paddle.cs" />
-      <File FileName="Assets/Scripts/Ball.cs" Line="61" Column="53" />
-      <File FileName="Assets/Scripts/Block.cs" Line="10" Column="50" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="28" Column="64" />
+      <File FileName="Assets/Scripts/Ball.cs" />
       <File FileName="Assets/Scripts/Level.cs" />
       <File FileName="Assets/Scripts/SceneLoader.cs" />
+      <File FileName="Assets/Scripts/GameSession.cs" Line="12" Column="45" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +13,7 @@
           <Node name="Block Breaker" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Ball.cs" selected="True" />
+                <Node name="GameSession.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -24,7 +23,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d0163daf-d921-4019-b382-fe8dfb0acc77" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b25ed6e3-d867-4223-b167-80627685cb63" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
